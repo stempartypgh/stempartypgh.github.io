@@ -1,5 +1,4 @@
-@import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
+@import url("font-awesome.min.css");@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 @import url("https://fonts.googleapis.com/css?family=Lobster");
 
 /*
@@ -81,7 +80,7 @@ input, select, textarea {
 		color:#ffffff
 		letter-spacing: -0.025em;
 		font-weight: 300;
-		line-height: 30px;
+		line-height: 50px;
 	}	
 
 	html {
